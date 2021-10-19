@@ -25,12 +25,19 @@ In our recent work we developed an extension to BCF to apply targeted shrinkage 
 
 This is joint work with my PhD students Alberto Caron and Ilina Yozova as well as collaborators Gianluca Baio and Richard Hahn. 
 
+* A. Caron, G. Baio and I. Manolopoulou, [Sparse Bayesian Causal Forests for Heterogeneous Treatment Effect Estimation.](https://arxiv.org/abs/2102.06573)
+* A. Caron, G. Baio and I. Manolopoulou, [Estimating Individual Treatment Effects using Non-Parametric Regression Models: a Review](https://arxiv.org/abs/2009.06472)
+
 
 ## Interpretability and coherence of topic models
 
 Topic models (and mixture models in general) are powerful tools in non-parametric estimation. However, quantities such as posterior mean and uncertainty are generally not interpretable for mixture models, because of their inherent label uncertainty. I am interested in producing meaningful summaries of posterior distributions over mixture models, and using these to construct further model pieces. 
 
-This is joint work with my former PhD student Mariflor Vega and collaborators Mirco Musolesi, Rosie Prior and Jason O'Sullivan. 
+This is joint work with my former PhD student Mariflor Vega-Carrasco and collaborators Mirco Musolesi, Rosie Prior and Jason O'Sullivan. 
+
+* M. Vega-Carrasco, J. O'Sullivan, R. Prior, I. Manolopoulou and M. Musolesi, [Modelling Grocery Retail Topic Distributions: Evaluation, Interpretability and Stability.](https://arxiv.org/abs/2005.10125).
+* M. Vega-Carrasco, M. Musolesi, J. O'Sullivan, R. Prior and I. Manolopoulou, Regional Topics in British Grocery Retail Transactions (submitted). 
+
 
 
 ## Bayesian modelling in partially identified models
@@ -39,10 +46,18 @@ Although there is currently an abundance of data available through a variety of 
 
 This is joint work with my former PhD student Helen (Zhenzheng) Hu and collaborators Ioannis Kosmidis, Richard Hahn, Jared Murray. 
 
+* H. Hu, I. Kosmidis and I. Manolopoulou, Misclassification in binary regression modelling (in preparation). 
+* R. Hahn, J. Murray and I. Manolopoulou, [A Bayesian partial identification approach to inferring the prevalence of accounting misconduct.](https://arxiv.org/abs/1407.8430)
+
+
 
 ## Bayesian modelling in health economics
 
 This is joint work with my former PhD student Anna Heath and collaborator Gianluca Baio. 
+
+* A. Heath, I. Manolopoulou and G. Baio, [Estimating the Expected Value of Partial Perfect Information in Health Economic Evaluations using Integrated Nested Laplace Approximation.](https://arxiv.org/abs/1504.05436).
+* A. Heath, I. Manolopoulou and G. Baio, [A Review of Methods for the Analysis of the Expected Value of Information](https://arxiv.org/abs/1507.02513).
+* A. Heath, I. Manolopoulou and G. Baio, [Estimating the Expected Value of Sample Information across Different Sample Sizes using Moment Matching and Non-Linear Regression.](https://arxiv.org/abs/1804.09590). 
 
 
 ## Diffusion modelling 
