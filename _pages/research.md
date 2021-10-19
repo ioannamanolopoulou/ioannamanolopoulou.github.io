@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research focuses on developing, extending or re-evaluating Bayesian models with a view to producing inferences which are useful and interpretable in practical applications. My main focus is in flexible modelling tools such as mixture models and tree models. 
+My main research interest is in developing, extending or re-evaluating Bayesian models with a view to producing inferences which are useful and interpretable in practical applications. My focus is in flexible modelling tools such as mixture models and tree models. 
 
 
 ## Causal inference for heterogeneous treatment effects
@@ -13,7 +13,7 @@ My research focuses on developing, extending or re-evaluating Bayesian models wi
 I am interested in the use of flexible tree models to infer heterogeneous treatment effects through non-parametric regression modelling. Hahn et al recently developed Bayesian Causal Forests (BCF) using a natural parameterisation that allows us to place priors (and therefore smoothing) directly on treatment effects.
 In our recent work we developed an extension to BCF to apply targeted shrinkage across the different covariates. 
 
-This is joint work with my PhD students [Alberto Caron](https://albicaron.github.io/) and Ilina Yozova as well as collaborators [Gianluca Baio](http://www.statistica.it/gianluca/) and [Richard Hahn](https://math.asu.edu/node/2746). 
+Different aspects of this work were jointly developed with my PhD students [Alberto Caron](https://albicaron.github.io/) and Ilina Yozova as well as collaborators [Gianluca Baio](http://www.statistica.it/gianluca/) and [Richard Hahn](https://math.asu.edu/node/2746). 
 
 * A. Caron, G. Baio and I. Manolopoulou, [Sparse Bayesian Causal Forests for Heterogeneous Treatment Effect Estimation.](https://arxiv.org/abs/2102.06573)
 * A. Caron, G. Baio and I. Manolopoulou, [Estimating Individual Treatment Effects using Non-Parametric Regression Models: a Review](https://arxiv.org/abs/2009.06472)
@@ -25,7 +25,7 @@ Topic models (and mixture models in general) are powerful tools in non-parametri
 
 This is joint work with my former PhD student Mariflor Vega-Carrasco and collaborators [Mirco Musolesi](https://www.mircomusolesi.org/), Rosie Prior and Jason O'Sullivan. 
 
-* M. Vega-Carrasco, J. O'Sullivan, R. Prior, I. Manolopoulou and M. Musolesi, [Modelling Grocery Retail Topic Distributions: Evaluation, Interpretability and Stability.](https://arxiv.org/abs/2005.10125).
+* M. Vega-Carrasco, J. O'Sullivan, R. Prior, I. Manolopoulou and M. Musolesi, [Modelling Grocery Retail Topic Distributions: Evaluation, Interpretability and Stability.](https://arxiv.org/abs/2005.10125)
 * M. Vega-Carrasco, M. Musolesi, J. O'Sullivan, R. Prior and I. Manolopoulou, Regional Topics in British Grocery Retail Transactions (submitted). 
 
 
@@ -42,6 +42,8 @@ This is joint work with my former PhD student [Helen (Zhenzheng) Hu](https://www
 
 
 ## Bayesian modelling in health economics
+
+Quantifying the impact of uncertainty on decisions is an important aspect of health-economic decision making. The analysis of the Value of Information (VoI) is an increasingly popular method for quantifying decision uncertainty, but it is frequently computationally prohibitive. This work used ideas from non-parametric modelling and moment-matching to allow feasible calculation of VoI summaries such as Expected Value of Partial Perfect Information (EVPPI) and the Expected Value of Sample Information (EVSI).
 
 This is joint work with my former PhD student [Anna Heath](https://sites.google.com/site/annaheathstats/) and collaborator [Gianluca Baio](http://www.statistica.it/gianluca/). 
 
