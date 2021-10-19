@@ -70,3 +70,4 @@ I have used diffusion models to describe trajectories of various organisms. This
 This was joint work with [Mike West](https://www2.stat.duke.edu/~mw/), [Melanie Matheu](https://www.linkedin.com/in/melaniematheu/) and [Mike Cahalan](http://www.immunology.uci.edu/profiles/cahalan-michael.asp), and more recently  with [Yvo Pokern](https://www.ucl.ac.uk/statistics/people/yvopokern) and [Tjun-Yee Hoh](https://people.maths.bris.ac.uk/~ea19261/index.html).
 
 
+* I. Manolopoulou, M. P. Matheu, M. D. Cahalan, M. West and T. B. Kepler, [Bayesian Spatio-Dynamic Modeling in Cell Motility Studies: Learning Nonlinear Taxic Fields Guiding the Immune Response](https://www.tandfonline.com/doi/full/10.1080/01621459.2012.655995)
