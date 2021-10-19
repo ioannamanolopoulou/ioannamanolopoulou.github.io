@@ -54,3 +54,5 @@ This is joint work with my former PhD student [Anna Heath](https://sites.google.
 
 ## Diffusion modelling 
 
+I have used diffusion models to describe trajectories of various organisms. This work was motivated by immune cell data collected by 2-photon microscopy from inside the lymphnode of a live mouse. The cells were tracked in 3 dimensions over time and the scientific interest lay in understanding the structure of the motion and whether it is completely random. This was joint work with Mike West, Melanie Matheu and Mike Cahalan. You can find more information in our paper. I have since also used similar methods to describe the motion of dictyostelium cells.
+More recently I worked on modelling animal movement using diffusion processes with Yvo Pokern and Tjun-Yee Hoh using Bayesian non-parametric methods.
