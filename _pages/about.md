@@ -12,12 +12,13 @@ This is the front page of a website that is powered by the [academicpages templa
 
 Profile
 ======
-I am an Associate Professor at the [Department of Statistical Science](https://www.ucl.ac.uk/statistics/) at [University College of London](https://www.ucl.ac.uk/). I moved to UCL in 2012 after spending 4 years at [Duke University](https://duke.edu/) and the former [Statistical and Applied Mathematical Sciences Institute (SAMSI)](https://www.samsi.info/) as a postdoctoral fellow. I was also previously a Turing Fellow at the [Alan Turing Institute](https://www.turing.ac.uk/). 
+I am an Associate Professor at the [Department of Statistical Science](https://www.ucl.ac.uk/statistics/) at [University College of London](https://www.ucl.ac.uk/). My research interests lie in Bayesian computational modelling, focusing on applications. Most of my research uses Bayesian non- and semi-parametric modelling, usually via Markov chain Monte Carlo. Applications of interest range from life sciences to customer science. You can find more information on my [research page].
 
-My research interests lie in Bayesian computational modelling, focusing on applications. Most of my research uses Bayesian non- and semi-parametric modelling, usually via Markov chain Monte Carlo. Applications of interest range from life sciences to customer science. You can find more information on my [research page].
+I moved to UCL in 2012 after spending 4 years at [Duke University](https://duke.edu/) and the former [Statistical and Applied Mathematical Sciences Institute (SAMSI)](https://www.samsi.info/) as a postdoctoral fellow. I was also previously a Turing Fellow at the [Alan Turing Institute](https://www.turing.ac.uk/). 
+I moved to Durham NC from Cambridge UK, where I did my PhD under the supervision of [Prof. S. Tavaré](https://systemsbiology.columbia.edu/faculty/simon-tavar%C3%A9) and [Prof. S.P. Brooks](https://en.wikipedia.org/wiki/Steve_Brooks_(statistician)). My PhD thesis was on phylogeographic methods, with title A Bayesian approach to Nested Clade Analysis. You can find a brief CV here.
 
-
-
+News
+======
 
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
