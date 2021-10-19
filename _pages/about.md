@@ -15,7 +15,7 @@ Profile
 I am an Associate Professor at the [Department of Statistical Science](https://www.ucl.ac.uk/statistics/) at [University College of London](https://www.ucl.ac.uk/). My research interests lie in Bayesian computational modelling, focusing on applications. Most of my research uses Bayesian non- and semi-parametric modelling, usually via Markov chain Monte Carlo. Applications of interest range from life sciences to customer science. You can find more information on my [research page].
 
 I moved to UCL in 2012 after spending 4 years at [Duke University](https://duke.edu/) and the former [Statistical and Applied Mathematical Sciences Institute (SAMSI)](https://www.samsi.info/) as a postdoctoral fellow. I was also previously a Turing Fellow at the [Alan Turing Institute](https://www.turing.ac.uk/). 
-I moved to Durham NC from Cambridge UK, where I did my PhD under the supervision of [Prof. S. Tavaré](https://systemsbiology.columbia.edu/faculty/simon-tavar%C3%A9) and [Prof. S.P. Brooks](https://en.wikipedia.org/wiki/Steve_Brooks_(statistician)). My PhD thesis was on phylogeographic methods, with title [A Bayesian approach to Nested Clade Analysis](thesis.pdf). You can find a [brief CV here](publication/IoannaManolopoulou.pdf).
+I moved to Durham NC from Cambridge UK, where I did my PhD under the supervision of [Prof. S. Tavaré](https://systemsbiology.columbia.edu/faculty/simon-tavar%C3%A9) and [Prof. S.P. Brooks](https://en.wikipedia.org/wiki/Steve_Brooks_(statistician)). My PhD thesis was on phylogeographic methods, with title [A Bayesian approach to Nested Clade Analysis](thesis.pdf). You can find a [brief CV here](files/IoannaManolopoulou.pdf).
 
 News
 ======
