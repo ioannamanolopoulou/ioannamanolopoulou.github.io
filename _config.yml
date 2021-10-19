@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ioanna Manolopoulou / Personal Webpage"
+title                    : "Ioanna Manolopoulou"
 title_separator          : "-"
 name                     : &name "Ioanna Manolopoulou"
 description              : &description "Associate Professor in Statistics"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Ioanna Manolopoulou"
   avatar           : "ioanna.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Associate Professor"
   location         : "https://goo.gl/maps/6UiHs7d4CSAKngQh6"
   employer         :
   pubmed           : 
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/ioanna-manolopoulou-1319693/"
+  orcid            : "https://orcid.org/0000-0002-5379-2916"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
