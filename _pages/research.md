@@ -23,7 +23,7 @@ Different aspects of this work were jointly developed with my PhD students [Albe
 
 Topic models (and mixture models in general) are powerful tools in non-parametric estimation. However, quantities such as posterior mean and uncertainty are generally not interpretable for mixture models, because of their inherent label uncertainty. I am interested in producing meaningful summaries of posterior distributions over mixture models, and using these to construct further model pieces. 
 
-This is joint work with my former PhD student Mariflor Vega-Carrasco and collaborators [Mirco Musolesi](https://www.mircomusolesi.org/), Rosie Prior and Jason O'Sullivan. 
+This is joint work with my former PhD student Mariflor Vega-Carrasco and collaborators [Mirco Musolesi](https://www.mircomusolesi.org/), [Rosie Prior](https://www.linkedin.com/in/rosie-prior-96275024/) and [Jason O'Sullivan](https://www.linkedin.com/in/jason-o-sullivan/?originalSubdomain=uk) as part of our collaboration with [dunnhumby ltd](https://www.dunnhumby.com/) 
 
 * M. Vega-Carrasco, J. O'Sullivan, R. Prior, I. Manolopoulou and M. Musolesi, [Modelling Grocery Retail Topic Distributions: Evaluation, Interpretability and Stability.](https://arxiv.org/abs/2005.10125)
 * M. Vega-Carrasco, M. Musolesi, J. O'Sullivan, R. Prior and I. Manolopoulou, Regional Topics in British Grocery Retail Transactions (submitted). 
@@ -52,7 +52,21 @@ This is joint work with my former PhD student [Anna Heath](https://sites.google.
 * A. Heath, I. Manolopoulou and G. Baio, [Estimating the Expected Value of Sample Information across Different Sample Sizes using Moment Matching and Non-Linear Regression.](https://arxiv.org/abs/1804.09590)
 
 
+## Bayesian modelling in retail analytics
+I've had a long-standing collaboration with [dunnhumby ltd](https://www.dunnhumby.com/) where our first few projects focused on developing models for the sales of slow-moving goods using Bayesian hierarchical self-exciting processes, as well as characterising differences in the competitive behaviour of different product groups. 
+
+
+This was joint work with my former PhD student [James Pitkin](https://www.linkedin.com/in/james-pitkin-49693a33/?originalSubdomain=uk) and collaborators [Gordon Ross](https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=593),  [Rosie Prior](https://www.linkedin.com/in/rosie-prior-96275024/) and [Jason O'Sullivan](https://www.linkedin.com/in/jason-o-sullivan/?originalSubdomain=uk). 
+
+
+* J. Pitkin, G. Ross and I. Manolopoulou, [Dirichlet Process Mixtures of Order Statistics with Applications to Retail Analytics](https://arxiv.org/abs/1805.05671).
+* J. Pitkin, I. Manolopoulou and G. Ross, [Bayesian hierarchical modelling of sparse count processes in retail analytics](https://arxiv.org/abs/1805.05657).
+
 ## Diffusion modelling 
 
-I have used diffusion models to describe trajectories of various organisms. This work was motivated by immune cell data collected by 2-photon microscopy from inside the lymphnode of a live mouse. The cells were tracked in 3 dimensions over time and the scientific interest lay in understanding the structure of the motion and whether it is completely random. This was joint work with Mike West, Melanie Matheu and Mike Cahalan. You can find more information in our paper. I have since also used similar methods to describe the motion of dictyostelium cells.
-More recently I worked on modelling animal movement using diffusion processes with Yvo Pokern and Tjun-Yee Hoh using Bayesian non-parametric methods.
+I have used diffusion models to describe trajectories of various organisms. This work was motivated by immune cell data collected by 2-photon microscopy from inside the lymphnode of a live mouse, but was later extended to capture patterns of animal movement using Bayesian non-parametric diffusion models. 
+
+
+This was joint work with [Mike West](https://www2.stat.duke.edu/~mw/), [Melanie Matheu](https://www.linkedin.com/in/melaniematheu/) and [Mike Cahalan](http://www.immunology.uci.edu/profiles/cahalan-michael.asp), and more recently  with [Yvo Pokern](https://www.ucl.ac.uk/statistics/people/yvopokern) and [Tjun-Yee Hoh](https://people.maths.bris.ac.uk/~ea19261/index.html).
+
+
