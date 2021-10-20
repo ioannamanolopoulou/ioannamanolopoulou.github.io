@@ -20,6 +20,7 @@ My main research interests lie in developing, extending or re-evaluating Bayesia
 News
 ======
 
+* [Three Teaching Assistantships](https://www.ucl.ac.uk/statistics/prospective-postgraduates/studentships) announced at the Department of Statistical Science with starting date January 2022. 
 * [Alberto Caron](https://albicaron.github.io/) to start his Turing Enrichment period in January 2022.
 * Mariflor Vega-Carrasco succefully defends her PhD thesis with title "Modelling Customer Behaviour with Topic Models for Retail Analytics"
 * Helen Hu successfully defends her PhD thesis with title "Dirichlet process probit misclassification mixtures model for misclassified binary data"
