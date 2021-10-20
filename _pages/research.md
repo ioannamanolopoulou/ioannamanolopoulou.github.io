@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My main research interest is in developing, extending or re-evaluating Bayesian models with a view to producing inferences which are useful and interpretable in practical applications. My focus is in flexible modelling tools such as mixture models and tree models. 
+My main research interest is in developing, extending or re-evaluating Bayesian models with a view to producing inferences which are useful and interpretable in practical applications. My focus is in flexible modelling tools such as mixture models and tree models. For a complete list of publications (which is most up-to-date) visit my [google scholar profile](https://scholar.google.com/citations?user=QkdqkzYAAAAJ&hl=en). 
 
 
 ## Causal inference for heterogeneous treatment effects
