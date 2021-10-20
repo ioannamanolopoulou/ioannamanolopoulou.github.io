@@ -20,7 +20,7 @@ My main research interests lie in developing, extending or re-evaluating Bayesia
 News
 ======
 
-* Alberto Caron to start his Turing Enrichment period in January 2022.
+* [Alberto Caron](https://albicaron.github.io/) to start his Turing Enrichment period in January 2022.
 * Mariflor Vega-Carrasco succefully defends her PhD thesis with title "Modelling Customer Behaviour with Topic Models for Retail Analytics"
 * Helen Hu successfully defends her PhD thesis with title "Dirichlet process probit misclassification mixtures model for misclassified binary data"
 * I am now affiliated to the recently-established [UCL ELLIS unit](https://ucl-ellis.github.io).
