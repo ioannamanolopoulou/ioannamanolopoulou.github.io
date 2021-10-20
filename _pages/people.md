@@ -11,7 +11,7 @@ author_profile: true
 * Ross Dobson (2nd supervisor)
 * Alberto Caron (1st supervisor)
 * Marta  Grzeskiewicz (2nd supervisor)
-* Istvan Papp (1st supervisor)
+* István Papp (1st supervisor)
 
 
 ## Past students
