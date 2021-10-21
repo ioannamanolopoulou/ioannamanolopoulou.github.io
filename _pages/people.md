@@ -5,7 +5,7 @@ permalink: /people/
 author_profile: true
 ---
 
-I am very lucky to have several talented PhD and MPhil students in my group. I am affiliated to several PhD funding schemes. For more information, see our dedicated [webpage for prospective students](https://www.ucl.ac.uk/statistics/prospective-postgraduates/studentships).
+I am very lucky to have several talented research students in my group. I am affiliated to several PhD funding schemes. For more information, see our dedicated [webpage for prospective students](https://www.ucl.ac.uk/statistics/prospective-postgraduates/studentships).
 
 
 ## Current students 
