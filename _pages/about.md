@@ -20,6 +20,7 @@ My main research interests lie in developing, extending or re-evaluating Bayesia
 News
 ======
 
+* I am delighted to have been appointed Associate Director (starting in 2022) of the [HDRUK-Turing PhD programme](https://www.hdruk.ac.uk/careers-in-health-data-science/phd-programme/). 
 * [Three Teaching Assistantships](https://www.ucl.ac.uk/statistics/prospective-postgraduates/studentships) announced at the Department of Statistical Science with starting date January 2022. 
 * [Applications for the 2022-23 HDRUK-Turing PhD programme in Health Data Science](https://www.hdruk.ac.uk/careers-in-health-data-science/phd-programme/) are now open!
 * [Alberto Caron](https://albicaron.github.io/) to start his Turing Enrichment period in January 2022.
