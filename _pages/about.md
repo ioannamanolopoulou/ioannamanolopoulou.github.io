@@ -23,6 +23,7 @@ I moved to Durham NC from Cambridge UK, where I did my PhD under the supervision
 
 News
 ======
+* Alberto Caron and Ilina Yozova present their work at [Greek Stochastics μ' ](http://www.stochastics.gr/meetings/mu/index.html).
 * Our paper with Alberto Caron and Gianluca Baio [Shrinkage Bayesian Causal Forests for Heterogeneous Treatment Effects Estimation](https://arxiv.org/abs/2102.06573) has been accepted for publication at the *Journal for Computational and Graphical Statistics*.
 * Our paper with Alberto Caron and Gianluca Baio [Estimating Individual Treatment Effects using Non-Parametric Regression Models: a Review](https://arxiv.org/abs/2009.06472) has been accepted for publication at the *Journal of the Royal Statistical Society, Series A*. 
 * Our paper with Mariflor Vega-Carrasco, Rosie Prior, Jason o'Sullivan and Mirco Musolesi ["Modelling Grocery Retail Topic Distributions: Evaluation, Interpretability and Stability"](https://arxiv.org/abs/2005.10125) has been accepted for publication at the *Journal of the Royal Statistical Society, Series C*.
