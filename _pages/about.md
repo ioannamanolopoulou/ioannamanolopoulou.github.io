@@ -11,7 +11,7 @@ redirect_from:
 
 Profile
 ======
-I am an Associate Professor at the [Department of Statistical Science](https://www.ucl.ac.uk/statistics/) at [University College of London](https://www.ucl.ac.uk/), as well as Associate Director of the [HDRUK-Turing PhD programme](https://www.hdruk.ac.uk/careers-in-health-data-science/further-education/phd-programme/).  I also affiliated to the recently-established [UCL ELLIS unit](https://ucl-ellis.github.io).
+I am a Professor of Statistical Science at the [Department of Statistical Science](https://www.ucl.ac.uk/statistics/) at [University College of London](https://www.ucl.ac.uk/), as well as Associate Director of the [HDRUK-Turing PhD programme](https://www.hdruk.ac.uk/careers-in-health-data-science/further-education/phd-programme/).  I also affiliated to the recently-established [UCL ELLIS unit](https://ucl-ellis.github.io).
 
 
 I moved to UCL in 2012 after spending 4 years at [Duke University](https://duke.edu/) and the former [Statistical and Applied Mathematical Sciences Institute (SAMSI)](https://www.samsi.info/) as a postdoctoral fellow. I was also previously a Turing Fellow at the [Alan Turing Institute](https://www.turing.ac.uk/). 
