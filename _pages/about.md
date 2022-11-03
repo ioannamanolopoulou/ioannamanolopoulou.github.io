@@ -11,7 +11,7 @@ redirect_from:
 
 Profile
 ======
-I am a Professor of Statistical Science at the [Department of Statistical Science](https://www.ucl.ac.uk/statistics/) at [University College of London](https://www.ucl.ac.uk/), as well as Associate Director of the [HDRUK-Turing PhD programme](https://www.hdruk.ac.uk/careers-in-health-data-science/further-education/phd-programme/).  I also affiliated to the recently-established [UCL ELLIS unit](https://ucl-ellis.github.io).
+I am a Professor of Statistical Science at the [Department of Statistical Science](https://www.ucl.ac.uk/statistics/) at [University College of London](https://www.ucl.ac.uk/), as well as Associate Director of the [HDRUK-Turing PhD programme](https://www.hdruk.ac.uk/careers-in-health-data-science/further-education/phd-programme/).  I am also affiliated to the recently-established [UCL ELLIS unit](https://ucl-ellis.github.io).
 
 
 My main research interests lie in developing, extending or re-evaluating Bayesian models with a view to producing inferences which are useful and interpretable in practical applications. My focus is in flexible modelling tools such as mixture models and tree models and applications of interest range from health data science to retail analytics. 
