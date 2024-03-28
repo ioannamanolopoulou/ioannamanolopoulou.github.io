@@ -23,10 +23,16 @@ I moved to Durham NC from Cambridge UK, where I did my PhD under the supervision
 
 News
 ======
-* Our paper with James Pitkin and Gordon Ross [Bayesian hierarchical modelling of sparse count processes in retail analytics](https://arxiv.org/abs/1805.05657) is accepted for publication in the Annals of Applied Statistics. 
+
+* Ilina Yozova to present her work at the  *2024 American Causal Inference Conference* organised by the Society for Causal Inference in Seattle (May 14-17 2024).
+* Ilina Yozova to present her work at the *2024 European Causal Inference Meeting* in Copenhagen (April 17-19 2024).
+* Our paper with Giuseppe Mignemi, Antonio Calcagn&igrave; and Andrea Spoto [Mixture polarization in inter‑rater agreement analysis:
+a Bayesian nonparametric index](https://arxiv.org/abs/2309.15076) is accepted for publication in *Statistical Methods & Applications*. 
+* Our paper with James Pitkin and Gordon Ross [Bayesian hierarchical modelling of sparse count processes in retail analytics](https://arxiv.org/abs/1805.05657) is accepted for publication in the *Annals of Applied Statistics*. 
 * Alberto Caron and Ilina Yozova present their work at [Greek Stochastics ν' ](http://www.stochastics.gr/meetings/nu/index.html).
+* [Nathan McJames](https://www.maynoothuniversity.ie/people/nathan-mcjames) from Maynooth University visiting our group for the summer. 
 * [Alberto Caron](https://albicaron.github.io/) passes his PhD viva and starts his position as postdoctoral research at the [Alan Turing Institute](https://www.turing.ac.uk/). 
-* Our paper with Alberto Caron and Gianluca Baio [ Counterfactual Learning with Multioutput Deep Kernels](https://openreview.net/pdf?id=iGREAJdULX) is published in Transactions of Machine Learning Research.
+* Our paper with Alberto Caron and Gianluca Baio [ Counterfactual Learning with Multioutput Deep Kernels](https://openreview.net/pdf?id=iGREAJdULX) is published in *Transactions of Machine Learning Research*.
 * Alberto Caron and Ilina Yozova present their work at [Greek Stochastics μ' ](http://www.stochastics.gr/meetings/mu/index.html).
 * Our paper with Alberto Caron and Gianluca Baio [Shrinkage Bayesian Causal Forests for Heterogeneous Treatment Effects Estimation](https://arxiv.org/abs/2102.06573) has been accepted for publication at the *Journal for Computational and Graphical Statistics*.
 * Our paper with Alberto Caron and Gianluca Baio [Estimating Individual Treatment Effects using Non-Parametric Regression Models: a Review](https://arxiv.org/abs/2009.06472) has been accepted for publication at the *Journal of the Royal Statistical Society, Series A*. 
