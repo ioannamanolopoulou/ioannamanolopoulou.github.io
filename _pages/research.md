@@ -18,7 +18,7 @@ Different aspects of this work were jointly developed with my PhD students [Albe
 * A. Caron, G. Baio and I. Manolopoulou, [Sparse Bayesian Causal Forests for Heterogeneous Treatment Effect Estimation.](https://arxiv.org/abs/2102.06573)
 * A. Caron, G. Baio and I. Manolopoulou, [Estimating Individual Treatment Effects using Non-Parametric Regression Models: a Review](https://arxiv.org/abs/2009.06472)
 * A. Caron, G. Baio and I. Manolopoulou, [ Counterfactual Learning with Multioutput Deep Kernels](https://openreview.net/pdf?id=iGREAJdULX)
-
+* A. Caron, G. Baio and I. Manolopoulou, []()
 
 ## Interpretability and coherence of topic models
 
