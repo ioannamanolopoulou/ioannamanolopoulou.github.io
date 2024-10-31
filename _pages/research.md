@@ -23,10 +23,26 @@ Different aspects of this work were jointly developed with my PhD students [Albe
 
 Topic models (and mixture models in general) are powerful tools in non-parametric estimation. However, quantities such as posterior mean and uncertainty are generally not interpretable for mixture models, because of their inherent label uncertainty. I am interested in producing meaningful summaries of posterior distributions over mixture models, and using these to construct further model pieces. 
 
-This is joint work with my former PhD student Mariflor Vega-Carrasco and collaborators [Mirco Musolesi](https://www.mircomusolesi.org/), [Rosie Prior](https://www.linkedin.com/in/rosie-prior-96275024/) and [Jason O'Sullivan](https://www.linkedin.com/in/jason-o-sullivan/?originalSubdomain=uk) as part of our collaboration with [dunnhumby ltd](https://www.dunnhumby.com/) 
+This is joint work with my former PhD student Mariflor Vega-Carrasco and collaborators 
+[Mirco Musolesi](https://www.mircomusolesi.org/), [Rosie Prior](https://www.linkedin.com/in/rosie-prior-96275024/) and [Jason O'Sullivan](https://www.linkedin.com/in/jason-o-sullivan/?originalSubdomain=uk) as part of our collaboration with [dunnhumby ltd](https://www.dunnhumby.com/) 
 
-* M. Vega-Carrasco, J. O'Sullivan, R. Prior, I. Manolopoulou and M. Musolesi, [Modelling Grocery Retail Topic Distributions: Evaluation, Interpretability and Stability.](https://arxiv.org/abs/2005.10125)
-* M. Vega-Carrasco, M. Musolesi, J. O'Sullivan, R. Prior and I. Manolopoulou, Regional Topics in British Grocery Retail Transactions (submitted). 
+* M. Vega-Carrasco, J. O'Sullivan, R. Prior, I. Manolopoulou and M. Musolesi, 
+[Posterior Summaries of Grocery Retail Topic Models: Evaluation, Interpretability and Credibility.](https://academic.oup.com/jrsssc/article/71/3/562/7067601)
+* M. Vega-Carrasco, M. Musolesi, J. O'Sullivan, R. Prior and I. Manolopoulou, 
+[Regional Shopping Objectives in British Grocery Retail Transactions Using Segmented Topic Models](https://onlinelibrary.wiley.com/doi/full/10.1002/asmb.2890). 
+
+
+## Applications of Bayesian non-parametric modelling to rater heterogeneity
+
+Bayesian non-parametric and semi-parametric models are a flexible way of capturing heterogeneity in complex data. 
+Rater heterogeneity, where different raters provide scores for different subjects, are a natural application
+of such models. This is joint work with my visiting PhD student, [Giuseppe Mignemi](https://scholar.google.com/citations?user=yvfdM3cAAAAJ&hl=en). 
+
+* Giuseppe Mignemi, Ioanna Manolopoulou [Bayesian Nonparametric Models for Multiple Raters: a General Statistical Framework](https://arxiv.org/abs/2410.21498). Submitted.
+
+* Giuseppe Mignemi, Antonio Calcagn&igrave and Andrea Spoto 
+[Mixture polarization in inter‑rater agreement analysis: a Bayesian nonparametric index](https://link.springer.com/article/10.1007/s10260-023-00741-x) 
+
 
 
 
