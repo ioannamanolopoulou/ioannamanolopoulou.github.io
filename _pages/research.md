@@ -24,7 +24,7 @@ Different aspects of this work were jointly developed with my PhD students [Albe
 
 Topic models (and mixture models in general) are powerful tools in non-parametric estimation. However, quantities such as posterior mean and uncertainty are generally not interpretable for mixture models, because of their inherent label uncertainty. I am interested in producing meaningful summaries of posterior distributions over mixture models, and using these to construct further model pieces. 
 
-This is joint work with my former PhD student Mariflor Vega-Carrasco and collaborators 
+This is joint work with my former PhD student Mariflor Vega Carrasco and collaborators 
 [Mirco Musolesi](https://www.mircomusolesi.org/), [Rosie Prior](https://www.linkedin.com/in/rosie-prior-96275024/) and [Jason O'Sullivan](https://www.linkedin.com/in/jason-o-sullivan/?originalSubdomain=uk) as part of our collaboration with [dunnhumby ltd](https://www.dunnhumby.com/) 
 
 * M. Vega Carrasco, J. O'Sullivan, R. Prior, I. Manolopoulou and M. Musolesi, 
