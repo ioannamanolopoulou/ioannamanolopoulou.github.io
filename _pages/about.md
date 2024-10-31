@@ -40,7 +40,7 @@ News
 accepted for publication in *Applied Stochastic Models in Business and Industry*. 
 * Ilina Yozova to present her work at the  *2024 American Causal Inference Conference* organised by the Society for Causal Inference in Seattle (May 14-17 2024).
 * Ilina Yozova to present her work at the *2024 European Causal Inference Meeting* in Copenhagen (April 17-19 2024).
-* Our paper with Giuseppe Mignemi, Antonio Calcagn&igrave; and Andrea Spoto [Mixture polarization in inter‑rater agreement analysis:
+* Our paper with Giuseppe Mignemi, Antonio Calcagnì and Andrea Spoto [Mixture polarization in inter‑rater agreement analysis:
 a Bayesian nonparametric index](https://arxiv.org/abs/2309.15076) is accepted for publication in *Statistical Methods & Applications*. 
 * Our paper with James Pitkin and Gordon Ross [Bayesian hierarchical modelling of sparse count processes in retail analytics](https://arxiv.org/abs/1805.05657) is accepted for publication in the *Annals of Applied Statistics*. 
 * Alberto Caron and Ilina Yozova present their work at [Greek Stochastics ν' ](http://www.stochastics.gr/meetings/nu/index.html).
