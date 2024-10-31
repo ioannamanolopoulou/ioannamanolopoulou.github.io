@@ -22,6 +22,7 @@ For more information, see our dedicated [webpage for prospective students](https
 ## Past research students
 
 * [Marta Grzeskiewicz](https://martagrz.github.io/) (2nd supervisor, supervised by [Petros Dellaportas](https://www.homepages.ucl.ac.uk/~ucakpde/))
+* Yuheng Song (undergraduate summer intern, 2024)
 * [Nathan McJames](https://www.maynoothuniversity.ie/people/nathan-mcjames) (visiting PhD student from Uni Maynooth, July-August 2023)
 * [Giuseppe Mignemi](https://scholar.google.com/citations?user=yvfdM3cAAAAJ&hl=en) (visiting PhD student from Uni Padova, September-December 2022)
 * [Alberto Caron](https://albicaron.github.io/) (1st supervisor)
