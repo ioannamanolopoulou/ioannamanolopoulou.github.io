@@ -35,6 +35,7 @@ I moved to Durham NC from Cambridge UK, where I did my PhD under the supervision
 News
 ======
 
+* Ilina Yozova starts her new position as Lecturer (Teaching) at the Department of Statistical Science, University College London. 
 * My paper with Giuseppe Mignemi, Ioanna Manolopoulou [Bayesian Nonparametric Models for Multiple Raters: a General Statistical Framework](https://doi.org/10.1017/psy.2025.10035) accepted for publication in Psychometrika. 
 * Our paper with Mariflor Vega Carrasco, Mirco Musolesi, Jason O’Sullivan, Rosie Prior 
 [Regional Shopping Objectives in British Grocery Retail Transactions Using Segmented Topic Models](https://onlinelibrary.wiley.com/doi/10.1002/asmb.2890) 
