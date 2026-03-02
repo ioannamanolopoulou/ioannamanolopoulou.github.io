@@ -18,12 +18,13 @@ Different aspects of this work were jointly developed with my PhD students [Albe
 * A. Caron, G. Baio and I. Manolopoulou, [Sparse Bayesian Causal Forests for Heterogeneous Treatment Effect Estimation.](https://arxiv.org/abs/2102.06573)
 * A. Caron, G. Baio and I. Manolopoulou, [Estimating Individual Treatment Effects using Non-Parametric Regression Models: a Review](https://arxiv.org/abs/2009.06472)
 * A. Caron, G. Baio and I. Manolopoulou, [ Counterfactual Learning with Multioutput Deep Kernels](https://openreview.net/pdf?id=iGREAJdULX)
+* A. Caron, G. Baio and I. Manolopoulou, [Interpretable Deep Causal Learning for Moderation Effects](https://arxiv.org/abs/2206.10261)
 
 ## Interpretability and coherence of topic models
 
 Topic models (and mixture models in general) are powerful tools in non-parametric estimation. However, quantities such as posterior mean and uncertainty are generally not interpretable for mixture models, because of their inherent label uncertainty. I am interested in producing meaningful summaries of posterior distributions over mixture models, and using these to construct further model pieces. 
 
-This is joint work with my former PhD student Mariflor Vega Carrasco and collaborators 
+This is joint work with my former PhD student Mariflor Vega-Carrasco and collaborators 
 [Mirco Musolesi](https://www.mircomusolesi.org/), [Rosie Prior](https://www.linkedin.com/in/rosie-prior-96275024/) and [Jason O'Sullivan](https://www.linkedin.com/in/jason-o-sullivan/?originalSubdomain=uk) as part of our collaboration with [dunnhumby ltd](https://www.dunnhumby.com/) 
 
 * M. Vega Carrasco, J. O'Sullivan, R. Prior, I. Manolopoulou and M. Musolesi, 
@@ -38,7 +39,7 @@ Bayesian non-parametric and semi-parametric models are a flexible way of capturi
 Rater heterogeneity, where different raters provide scores for different subjects, are a natural application
 of such models. This is joint work with my visiting PhD student, [Giuseppe Mignemi](https://scholar.google.com/citations?user=yvfdM3cAAAAJ&hl=en). 
 
-* Giuseppe Mignemi, Ioanna Manolopoulou [Bayesian Nonparametric Models for Multiple Raters: a General Statistical Framework](https://arxiv.org/abs/2410.21498). Submitted.
+* Giuseppe Mignemi, Ioanna Manolopoulou [Bayesian Nonparametric Models for Multiple Raters: a General Statistical Framework](https://doi.org/10.1017/psy.2025.10035). 
 
 * Giuseppe Mignemi, Antonio Calcagnì and Andrea Spoto 
 [Mixture polarization in inter‑rater agreement analysis: a Bayesian nonparametric index](https://link.springer.com/article/10.1007/s10260-023-00741-x) 

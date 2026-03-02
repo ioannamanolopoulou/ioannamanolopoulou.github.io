@@ -11,6 +11,11 @@ For more information, see our dedicated [webpage for prospective students](https
 
 ## Current research students 
 
+* Chenoa Sankar (jointly with AHRI, co-supervised with [Erofili Grapsa](https://scholar.google.com/citations?user=fwe7Nm8AAAAJ&hl=en) and [Collins Iwuji](https://www.ahri.org/scientist/collins-iwuji/))
+* Ivan Ching Choy (2nd supervisor, co-supervised with [Javier Rubio Alvarez](https://sites.google.com/site/fjavierrubio67/))
+* Charif El Gataa (1st supervisor, co-supervised with [Brieuc Lehmann](https://brieuclehmann.github.io/) and [Gianluca Baio](https://gianluca.statistica.it/))
+* Iman Simo-Dzumgang (1st supervisor)
+* Ishana Atkinson (1st supervisor, co-supervised with [Isabel Straw](https://www.isabelstraw.com/) and [Joe Collins](https://profiles.ucl.ac.uk/70734-joe-collins))
 * Qiyu Wang (1st supervisor, co-supervised with [Brooks Paige](https://tbrx.github.io/))
 * Ilina Yozova (1st supervisor)
 * Kefan Meng (2nd supervisor, co-supervised with [Tom Bartlett](https://www.ucl.ac.uk/statistics/people/thomas-bartlett))
